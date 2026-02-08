@@ -1,0 +1,43 @@
+﻿,Line #,Name,Description,Designator,Quantity,Manufacturer 1,Manufacturer Part Number 1,Manufacturer Lifecycle 1,Supplier 1,Supplier Part Number 1,Supplier Unit Price 1,Supplier Subtotal 1
+,,10 nF 0402,"Chip Multilayer Ceramic Capacitors for General Purpose, 0402, 10000pF, X7R, 15%, 10%, 50V",C22,1,Murata,GRM155R71H103KA88J,Volume Production,DigiKey,490-6351-1-ND,0.1,0.1
+,,10 µF 0603,"Chip Multilayer Ceramic Capacitors for General Purpose, 0603, 10uF, X5R, 15%, 20%, 35V","C33, C34, C35, C36",4,Murata,GRM188R6YA106MA73D,Volume Production,DigiKey,490-13248-6-ND,0.23,0.92
+,,"PESD5V0F1BLD,315",TVS DIODE 5.5V 15V 2DFN1006D,"D2, D3",2,Nexperia,"PESD5V0F1BLD,315",Volume Production,Mouser,771-PESD5V0F1BLD315,0.66,1.32
+,,NRVBSS34FA,NRVBSS34FA Schottky Barrier Rectifier Diode 40V 3A 2-Pin SOD−123FL T/R,"D4, D11",2,onsemi,NRVBSS34FA,Volume Production,Mouser,863-NRVBSS34FA,1.23,2.46
+,,SML-P11VTT86R,LED RED CLEAR 1006 SMD,"D5, D6, D7, D8, D9, D10",6,ROHM,SML-P11VTT86R,Volume Production,DigiKey,846-SML-P11VTT86RCT-ND,0.41,2.46
+,,217179-0001,CONN RCP USB2.0 TYP C 24P SMD RA,J1,1,Molex,217179-0001,Volume Production,DigiKey,900-2171790001DKR-ND,0.83,0.83
+,,SM08B-SRSS-TB(LF)(SN),"Male Header, Pitch 1 mm, 1 x 8 Position, Height 2.95 mm, -25 to 85 degC, RoHS, Tape and Reel","J2, J3, J4, J5, J6, J7",6,JST,SM08B-SRSS-TB(LF)(SN),Volume Production,Arrow Electronics,SM08B-SRSS-TB(LF)(SN),0,0
+,,ERJ-2RKF5101X,RES SMD 5.1K OHM 1% 1/10W 0402,"R7, R8",2,Panasonic,ERJ-2RKF5101X,Volume Production,Farnell,2302709,0.0192,0.19198
+,,BMI088,"High-performance 6-axis inertial sensor (accelerometer + gyroscope) <a href=""https://pricing.snapeda.com/parts/BMI088/Bosch%20Sensortec/view-part?ref=eda"">Check prices</a>","U2, U4",2,,,,,,,
+,,ICM-42688-P,"Accelerometer, Gyroscope, 6 Axis Sensor Output",U3,1,,,,,,,
+,,LP5912-3.3DRVR,500-mAÂ low-noiseÂ low-IQÂ low-dropout voltage regulator with reverse current protect,"U9, U10",2,Texas Instruments,LP5912-3.3DRVR,Volume Production,Mouser,595-LP5912-3.3DRVR,1.16,2.32
+,,GRM155R71H472JA01D,"Chip Multilayer Ceramic Capacitors for General Purpose, 0402, 4700pF, X7R, 15%, 5%, 50V",C43,1,Murata,GRM155R71H472JA01D,Volume Production,DigiKey,490-7764-1-ND,0.1,0.1
+,,ERJ-2RKF60R4X,RES SMD 60.4 OHM 1% 1/10W 0402,"R18, R19",2,Panasonic,ERJ-2RKF60R4X,Volume Production,Mouser,667-ERJ-2RKF60R4X,0.017,0.17
+,,STM32H743VIT6,IC MCU 32BIT 2MB FLASH 100LQFP,U1,1,STMicroelectronics,STM32H743VIT6,Volume Production,Arrow Electronics,STM32H743VIT6,7.662,7.662
+,,W25Q128JVPIQ,"FLASH - NOR Memory IC 128Mb (16M x 8) SPI - Quad I/O, QPI, DTR 133 MHz 8-WSON (6x5)",U8,1,,,,,,,
+,,TCAN337GDR,IC TRANSCEIVER 1/1 8SOIC,U11,1,Texas Instruments,TCAN337GDR,Volume Production,DigiKey,296-44213-1-ND,2.63,2.63
+,,0805 10uF 50V,"Chip Multilayer Ceramic Capacitors for General Purpose, 0805, 10uF, X5R, 15%, 10%, 50V","C44, C45",2,Murata,GRM21BR61H106KE43K,Volume Production,DigiKey,490-GRM21BR61H106KE43KCT-ND,0.28,0.56
+,,0402 100nF 50V,"Chip Multilayer Ceramic Capacitors for General Purpose, 0402, 0.10uF, X7R, 15%, 10%, 50V","C1, C2, C3, C9, C10, C11, C13, C15, C16, C17, C18, C19, C21, C24, C25, C26, C27, C28, C29, C30, C31, C32, C38, C40, C42, C49, C50, C51, C52",29,Murata,GRM155R71H104KE14J,Volume Production,Mouser,81-GRM155R71H104KE4J,0.017,0.493
+,,0402 33nF,Ceramic Capacitor for Automotive 33nF ±10% 50VDC X7R 0402 Paper T/R,C48,1,Murata,GCM155R71H333KE02D,Volume Production,DigiKey,490-13296-1-ND,0.1,0.1
+,,0805 22uF 25V,"Chip Multilayer Ceramic Capacitors for General Purpose, 0805, 22uF, X5R, 15%, 20%, 25V","C46, C47",2,Murata,GRM21BR61E226ME44K,Volume Production,Mouser,81-GRM21BR61E226ME4K,0.32,0.64
+,,0R,"ERJ-H2G0R00X Zero Ohm Resistor, Jumper, 1A, 0402;","R48, R49",2,Panasonic,ERJ-H2G0R00X,Volume Production,DigiKey,10-ERJ-H2G0R00XCT-ND,0.11,0.22
+,,ERJ2RKF1002X,"Chip Resistor, 10 KOhm, +/- 1%, 0.1 W, -55 to 155 degC, 0402 (1005 Metric), RoHS, Tape and Reel","R1, R2, R5, R6, R9",5,Panasonic,ERJ-2RKF1002X,Volume Production,Newark,ERJ2RKF1002X,0.017,0.17
+,,ERJ-2RKF2201X,"Precision Thick Film Chip Resistor, 2.2 kOhm, 100 mW, 1%, -55 to 155 degC, 2-Pin SMD (0402), RoHS, Tape and Reel","R3, R4, R16, R17",4,Panasonic,ERJ-2RKF2201X,Volume Production,Newark,ERJ2RKF2201X,0.022,0.22
+,,ERJ-2RKF1000X,"Chip Resistor, 100 Ohm, +/- 1%, 100 mW, -55 to 155 degC, 0402 (1005 Metric), RoHS, Tape and Reel","R10, R11, R12, R14, R15",5,Panasonic,ERJ-2RKF1000X,Volume Production,Mouser,667-ERJ-2RKF1000X,0.017,0.17
+,,49.9R,RES SMD 49.9 OHM 0.1% 1/20W 0201,"R20, R21, R22, R23, R24, R25, R26, R27, R28, R29, R30, R31, R32, R33, R34, R35, R36, R37, R38, R39, R40, R41, R42, R43, R44, R45",26,Yageo Group,RT0201BRD0749R9L,Volume Production,Mouser,603-RT0201BRD0749R9L,0.172,4.472
+,,GJM1555C1H5R6WB01D,Multi-Layer Ceramic Capacitor 5.6pF C0G  ±0.05pF 0402 Paper T/R,"C4, C5",2,Murata,GJM1555C1H5R6WB01D,Volume Production,DigiKey,490-11227-1-ND,0.16,0.32
+,,GRM155R61E225KE11D,"Chip Multilayer Ceramic Capacitors for General Purpose, 0402, 2.2uF, X5R, 15%, 10%, 25V","C6, C7, C20, C53",4,Murata,GRM155R61E225KE11D,Volume Production,DigiKey,490-12703-1-ND,0.16,0.64
+,,GRM155R61A475MEAAD,"Chip Multilayer Ceramic Capacitors for General Purpose, 0402, 4.7uF, X5R, 15%, 20%, 10V",C8,1,Murata,GRM155R61A475MEAAD,Volume Production,Mouser,81-GRM155R61A475MEAD,0.11,0.11
+,,GRM155R61E105KA12D,"Chip Multilayer Ceramic Capacitors for General Purpose, 0402, 1.0uF, X5R, 15%, 10%, 25V","C12, C14, C37, C39",4,Murata,GRM155R61E105KA12D,Volume Production,Mouser,81-GRM155R61E105KA2D,0.021,0.21
+,,BMP390,"P-Sensor SPI I2C 1, 25 Bar SMD","U5, U6",2,,,,,,,
+,,"PESD12VV1BL,315",7.8A 290W 38V 14.6V Bidirectional 12V DFN1006-2 ESD and Surge Protection (TVS/ESD) ROHS,D1,1,Nexperia,"PESD12VV1BL,315",Volume Production,,,,
+,,XAL4030-332MEC,"General Purpose Inductor, 3.3uH, 20%, 1 Element, Composite-Core, SMD, 1616",L1,1,Coilcraft,XAL4030-332MEC,Volume Production,Mouser,994-XAL4030-332MEC,2.95,2.95
+,,ERJ-2RKF5113X,,R50,1,Panasonic,ERJ-2RKF5113X,Volume Production,Mouser,667-ERJ-2RKF5113X,0.1,0.1
+,,ERJ-2RKF8872X,,R51,1,Panasonic,ERJ-2RKF8872X,Volume Production,Avnet,53W4487,0.018,0.018
+,,ERJ-2RKF49R9X,RES SMD 49.9 OHM 1% 1/10W 0402,R52,1,Panasonic,ERJ-2RKF49R9X,Volume Production,Newark,ERJ2RKF49R9X,0.099,0.099
+,,ERJ-2RKF5362X,,R53,1,Panasonic,ERJ-2RKF5362X,Volume Production,DigiKey,P53.6KLDKR-ND,0.1,0.1
+,,ERJ-2RKF1022X,RES SMD 10.2K OHM 1% 1/10W 0402,R54,1,Panasonic,ERJ-2RKF1022X,Volume Production,Mouser,667-ERJ-2RKF1022X,0.1,0.1
+,,ERJ-2RKF1001X,"Chip Resistor, 1 KOhm, +/- 1%, 100 mW, -55 to 155 degC, 0402 (1005 Metric), RoHS, Tape and Reel",R13,1,Bourns,CR0402-FX-1001GLF,Volume Production,Newark,CR0402-FX-1001GLF,0.002,0.002
+,,SN74LVC2G86DCUT,"Dual 2-Input Exclusive-Or Gate, DCU0008A, SMALL T&R",U13,1,Texas Instruments,SN74LVC2G86DCUT,Volume Production,Mouser,595-SN74LVC2G86DCUT,1.11,1.11
+,,TPS62933DRLR,IC REG BUCK ADJ 3A SOT583 Buck Switching Regulator IC Positive Adjustable 0.8V 1 Output 3A SOT-583,U12,1,Texas Instruments,TPS62933DRLR,Volume Production,DigiKey,296-TPS62933DRLRCT-ND,1.26,1.26
+,,NX2016SA-48M-EXS00A-CS05517,"Parallel - Fundamental Quartz Crystal, 48MHz Nom",Y1,1,,,,,,,
+,,BMM350,BMM350 BMM350 Series 1.98 V I2C/I3C Interface 16 Bit 3 Axis Magnetometer - WLCSP-9,U7,1,Bosch Sensortec,BMM350,Unknown,Future Electronics,2174271,2.16,2.16
