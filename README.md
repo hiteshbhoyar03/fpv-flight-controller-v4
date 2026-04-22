@@ -9,8 +9,17 @@ This is the FPV Flight Controller v4, designed for high-performance multirotor a
 
 Built around the STM32H743 microcontroller, the board integrates multiple IMUs, dual barometers, external flash memory, CAN communication, and extensive I/O.
 
-Project status: ongoing development.  
-Hardware fabrication and testing will be carried out later.
+Project status: ongoing testing.  
+Hardware fabricated, testing is currently in progress.
+
+<p align="center">
+  <img width="39%" src="https://github.com/hiteshbhoyar03/fpv-flight-controller-v4/blob/main/gallery/fc%20fab%20front.jpeg">
+  <img width="39%" src="https://github.com/hiteshbhoyar03/fpv-flight-controller-v4/blob/main/gallery/fc%20fab%20back.jpeg">
+</p>
+<p align="center">
+  <img width="39%" src="https://github.com/hiteshbhoyar03/fpv-flight-controller-v4/blob/main/gallery/fc%20testbench1.jpeg">
+  <img width="39%" src="https://github.com/hiteshbhoyar03/fpv-flight-controller-v4/blob/main/gallery/fc%20testbench3.jpeg">
+</p>
 
 ---
 
